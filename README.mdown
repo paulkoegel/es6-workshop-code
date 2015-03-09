@@ -8,3 +8,5 @@ start webpack watcher:
 
 start server:
     webpack-dev-server --progress --colors
+
+Visit http://localhost:8080
