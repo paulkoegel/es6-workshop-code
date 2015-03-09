@@ -1,12 +1,15 @@
 # Setup
 
 Install required npm packages:
+
     npm install
 
 start webpack watcher:
+
     webpack --progress --colors --watch
 
 start server:
+
     webpack-dev-server --progress --colors
 
-Visit http://localhost:8080
+Visit `http://localhost:8080`.
