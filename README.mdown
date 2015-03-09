@@ -1,0 +1,10 @@
+# Setup
+
+Install required npm packages:
+    npm install
+
+start webpack watcher:
+    webpack --progress --colors --watch
+
+start server:
+    webpack-dev-server --progress --colors
